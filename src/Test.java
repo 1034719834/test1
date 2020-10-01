@@ -13,6 +13,7 @@ public class Test {
             }
 
         }*/
+
         int n = 59; // 空瓶
         int keh=0; // 汽水数
         while(n>2){
